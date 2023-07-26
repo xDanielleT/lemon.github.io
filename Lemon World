@@ -8,6 +8,14 @@ First Web Page
 </head>
 
 <body>
-Lemon World!
+<h1>Lemon World!</h1>
+ <!-- Hero Section -->
+  <section class="hero">
+    <img src="hero_background.jpg" alt="Background Image">
+    <h1>About Rez Connect</h1>
+    <p>
+      <!-- Brief Paragraph -->
+    </p>
+  </section>
 </body>
 </html>
